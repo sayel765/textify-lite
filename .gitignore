@@ -1,0 +1,26 @@
+# --- Python junk ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Virtual environments ---
+venv/
+.env/
+
+# --- Build artifacts (setuptools/pyinstaller) ---
+build/
+dist/
+*.egg-info/
+
+# --- IDE / Editor junk ---
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# --- OS/system junk ---
+.DS_Store
+Thumbs.db
+
+# -- Personal sandbox files --
+mytest

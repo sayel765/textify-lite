@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "textify"
+version = "0.1.0"
+description = "A screen area OCR tool with PyQt5 editor"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+  { name = "Md. Sayel", email = "mdsayel666@gmail.com" }
+]
+
+dependencies = [
+  "PyQt5",
+  "pytesseract",
+  "Pillow"
+]
+
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/sayel765/textify-lite"
+
+[project.scripts]
+textify = "textify.main:main"
