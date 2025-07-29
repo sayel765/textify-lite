@@ -1,3 +1,5 @@
+
+
 # Textify Lite
 
 Textify Lite is a Linux utility that lets you **select an area** of the screen, **extract text** using OCR, and **open the extracted text in an editor window** for quick editing and copying.The extraction happens within the fraction of a second.
@@ -16,6 +18,7 @@ Textify : https://github.com/sayel765/textify
 
 ## 📺 Preview
 
+https://github.com/user-attachments/assets/9c69039b-c5d8-4db7-900e-5503d45f3a6f
 
 ## 📌 Features
 
