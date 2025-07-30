@@ -41,7 +41,7 @@ For installation, Follow Instruction given for your distribution.
 ##### [✓] Dependency installation
 ```bash
 sudo apt update
-sudo apt install python3-pipx grim slurp wl-clipboard maim slop xclip tesseract-ocr tesseract-ocr-eng tesseract-ocr-ben xdg-utils
+sudo apt install pipx grim slurp wl-clipboard maim slop xclip tesseract-ocr tesseract-ocr-eng tesseract-ocr-ben xdg-utils
 ```
 ##### [✓] Add pipx binary path to your shell PATH
 ```bash
